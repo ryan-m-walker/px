@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    // "lib": ["es2017"],
+    "module": "es6",
+    "declaration": true,
+    "noImplicitAny": true,
+    "outDir": "lib",
+    "strict": true,
+    "removeComments": true
+  },
+  "include": ["src/**/*"]
+}
